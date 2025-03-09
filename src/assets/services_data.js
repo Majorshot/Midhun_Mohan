@@ -12,7 +12,7 @@ const Services_Data = [
     {
         s_no:"03",
         s_name:"Social media",
-        s_desc:"Managing multiple social media platforms to grow your buisiness"
+        s_desc:"Managing multiple social media platforms to grow your business"
     },
     {
         s_no:"04",
