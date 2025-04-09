@@ -42,10 +42,10 @@ const Contact = () => {
                 <p>Im available for work, just contact me from the given information or fill the contact form below</p>
                 <div className="contact-details">
                     <div className="contact-detail">
-                        <img src={mail_icon} alt="" /> <p>homekzhy@gmail.com</p>
+                        <img src={mail_icon} alt="" /> <p>midhunmohankzhyw@gmail.com</p>
                     </div>
                     <div className="contact-detail">
-                    <img src={call_icon} alt="" /> <p>+91 6238 270 613</p>
+                    <img src={call_icon} alt="" /> <p>+91 999 5855 774</p>
                     </div>
                     <div className="contact-detail">
                     <img src={location_icon} alt="" /> <p>Pathanamthitta, Kerala, India</p>
