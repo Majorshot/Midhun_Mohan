@@ -11,7 +11,7 @@ const Hero = () => {
         <p>Welcome to my Porfolio,Here you can check my resume and connect with me via clicking the buttons below, Want to know more about me? Just scroll down!</p>
         <div className="hero-action">
             <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me</AnchorLink></div>
-            <a className="hero-resume" href='https://drive.google.com/file/d/1qYm716zhd-6dLzKDejQPemawW6MS59Of/view?usp=sharing'>My resume</a>
+            <a className="hero-resume" href='https://drive.google.com/file/d/1cpFyDXYekHxdvcyWFcQaUNlZi1UZl-Iz/view?usp=sharing'>My resume</a>
         </div>
     </div>
   )
